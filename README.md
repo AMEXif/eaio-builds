@@ -1,2 +1,2 @@
 # eaio-builds
-Every version of eaio built. (for organization's and redundancy sake)
+Every version of eaio built. (for organization and redundancy)

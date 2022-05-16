@@ -1,5 +1,6 @@
 [ 
   {"version": "updater", "link": "https://raw.githubusercontent.com/AMEXif/eaio-builds/main/updater.rar"},
   {"version": "0", "link": "https://raw.githubusercontent.com/AMEXif/eaio-builds/main/pub_1.0.rar"}, 
-  {"version": "1", "link": "https://raw.githubusercontent.com/AMEXif/eaio-builds/main/pub_1.1.rar"}
+  {"version": "1", "link": "https://raw.githubusercontent.com/AMEXif/eaio-builds/main/pub_1.1.rar"},
+  {"version": "2", "link": "https://raw.githubusercontent.com/AMEXif/eaio-builds/main/pub_1.2.rar"}
 ]
